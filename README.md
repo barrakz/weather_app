@@ -1,3 +1,3 @@
 # weather_app
-Weather app with api
+Weather app with api <br>
 celsius converter added
