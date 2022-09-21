@@ -15,6 +15,8 @@ celsius_temp = celsius_converter(temp)
 
 print(f"The weather in {user_input} is {weather}")
 print(f"The temperature in {user_input} is {celsius_temp} C")
+
+
 # print(weather_data.status_code)
 
 
